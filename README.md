@@ -5,7 +5,7 @@
 👋 Opa, bem vindo ao meu perfil!
 
 Atualmente estou estudando na SPTech, cursando Análise e Desenvolvimento de Sistema.
-O meu maior interesse se concentra no Front-End, mais especificamente no web design. Acredito que a estética do site é que traz a maior atenção dos clientes.
+O meu maior interesse se concentra no Front-End, mais especificamente no web design. Acredito que a estética do site é que traz a maior atenção dos clientes. <br />
 O meu maior desejo como um desenvolvedor é aprender a desenvolver jogos e aplicativos IAs.
 
 ---
